@@ -1,5 +1,5 @@
 ### Hey,I'm [Yashaswini](https://yashaswinirajanna.github.io/MyPortfolio/#)
- I'm Final year undergraduate from SIT
+ I'm Final year CSE undergraduate from SIT.
  
 
 <!--

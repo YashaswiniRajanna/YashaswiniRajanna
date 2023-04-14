@@ -1,4 +1,6 @@
 ### Hey,I'm [Yashaswini](https://yashaswinirajanna.github.io/MyPortfolio/#)
+ I'm Final year undergraduate from SIT
+ 
 
 <!--
 **YashaswiniRajanna/YashaswiniRajanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
